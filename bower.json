@@ -1,0 +1,25 @@
+{
+    "name": "h8elper",
+    "version": "0.1.0",
+    "authors": [
+        "Victor Hugo Marques <victorhm@outlook.com>"
+    ],
+    "description": "angular utilities",
+    "main": "main.js",
+    "moduleType": [
+        "amd",
+        "es6"
+    ],
+    "keywords": [
+        "angular",
+        "helper"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
