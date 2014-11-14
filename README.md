@@ -3,6 +3,9 @@ h8
 
 A bunch of things in angular that I use a lot
 
+```
+bower install h8 --save
+```
 
 Usage
 ==
